@@ -9,6 +9,7 @@ public class Main {
         System.out.printf("bugFix!");
         System.out.printf("no fix!");
         System.out.printf("fix again!");
+        System.out.println("1145141919810");
 
         for (int i = 1; i <= 5; i++) {
             //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
